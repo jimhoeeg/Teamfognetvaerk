@@ -4,6 +4,7 @@ Gamificeret web-app (PWA) til tilskuere og medlemmer af Team FOG Næstved: kampd
 
 - Produkt og flow: [`docs/PRODUKT.md`](docs/PRODUKT.md)
 - Designguide "Arena Night": [`docs/DESIGN.md`](docs/DESIGN.md)
+- Live demo: https://team-fog-app.vercel.app (deployes automatisk ved push)
 
 ## Kom i gang
 
